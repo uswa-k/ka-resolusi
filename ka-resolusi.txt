@@ -1,3 +1,5 @@
 Kaha resolusi
 - konsisten untuk belajar website
 - belajar framework
+- membuat website minimalis dan modern
+- menjadi expert dalam web programming
