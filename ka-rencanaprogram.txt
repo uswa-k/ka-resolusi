@@ -1,4 +1,5 @@
 rencana program kaha
 - belajar php
+  - belajar lagi javascript
 - belajar code igniter
 - belajar laravel
